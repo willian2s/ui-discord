@@ -20,6 +20,7 @@ export const Message = styled.div`
   flex-direction: column;
 
   max-height: calc(100vh - 46px - 68px);
+  overflow-y: scroll;
 
   ::-webkit-scrollbar {
     width: 8px;
