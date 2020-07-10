@@ -1,3 +1,7 @@
+# UI Clone Discord
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2b3b3f94-5f99-41ff-9841-dc0046721c65/deploy-status)](https://app.netlify.com/sites/discordcloneui/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
